@@ -1,0 +1,3 @@
+/home/hdl/eclipse-workspace/microservicecloud/microservicecloud-api/src/main/java/com/cloud/entity/Dept.java
+/home/hdl/eclipse-workspace/microservicecloud/microservicecloud-api/src/main/java/com/cloud/service/DeptClientService.java
+/home/hdl/eclipse-workspace/microservicecloud/microservicecloud-api/src/main/java/com/cloud/serviceFallbackFactory/DeptClientServiceFallbackFactory.java

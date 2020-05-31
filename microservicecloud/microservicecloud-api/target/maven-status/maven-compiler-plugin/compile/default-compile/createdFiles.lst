@@ -1,0 +1,4 @@
+com/cloud/service/DeptClientService.class
+com/cloud/serviceFallbackFactory/DeptClientServiceFallbackFactory$1.class
+com/cloud/serviceFallbackFactory/DeptClientServiceFallbackFactory.class
+com/cloud/entity/Dept.class
